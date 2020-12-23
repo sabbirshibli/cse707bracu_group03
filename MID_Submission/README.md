@@ -17,11 +17,11 @@ This Presentation has been submitted as a partial fulfillment for CSE 707 - Disr
 **Or, you can access the video directly by this link:** https://youtu.be/_u4B-85wEe8
 
 **Submission Information:**  
-Presented By:
-Sabbir Ahmed Sibli (ID: 20266027)
-Nuray Jannat (ID: 20266028)
-Md. Hasibul Islam (ID: 20266008)
-Taniya Sultana Jabin (ID: 20266016)
-Sahiba Tasneem (ID: 20266022)
-Session: Fall 2020
-Program: MSc. in CSE, BRAC University
+Presented By:  
+Sabbir Ahmed Sibli (ID: 20266027)  
+Nuray Jannat (ID: 20266028)  
+Md. Hasibul Islam (ID: 20266008)  
+Taniya Sultana Jabin (ID: 20266016)  
+Sahiba Tasneem (ID: 20266022)  
+Session: Fall 2020  
+Program: MSc. in CSE, BRAC University  
